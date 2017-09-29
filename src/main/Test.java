@@ -10,6 +10,7 @@ public class Test {
 		int c;
 		int b;
 		int a;
+		int d;
 		// TODO Auto-generated method stub
 		System.out.println("hello world");
 
