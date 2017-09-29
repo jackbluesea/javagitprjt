@@ -9,6 +9,7 @@ public class Test {
 	public static void main(String[] args) {
 		int c;
 		int b;
+		int f;
 		int a;
 		// TODO Auto-generated method stub
 		System.out.println("hello world");
