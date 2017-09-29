@@ -5,6 +5,7 @@ public class Test {
 	private String city;
 	private String pass;
 	int count;
+	String address;
 
 	public static void main(String[] args) {
 		int c;
